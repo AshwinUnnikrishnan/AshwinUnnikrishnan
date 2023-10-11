@@ -4,13 +4,13 @@
 **AshwinUnnikrishnan/AshwinUnnikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🌱 I’m currently learning
     - GANs and Diffusion models
 - 🤔 I’m looking for help with finding a job :) 
 - 📫 How to reach me: Unnikrishnan.a@northeastern.edu
 - ⚡ Fun fact: ...
--->
 About:
 I'm an experienced Machine Learning Engineer with a focus on Data Science, Natural Language Processing, and Computer Vision. I'm currently furthering my education by pursuing an MS in Artificial Intelligence at Northeastern University in Boston.
 My professional journey includes experience with leading companies like Qualcomm and Raysecur Inc. During my tenure at Qualcomm, where I was part of the IoT stability test team, I had the opportunity to contribute to several Machine Learning projects. These experiences ignited my interest in the field of Artificial Intelligence and ultimately led me to pursue a Master's degree in the same.
