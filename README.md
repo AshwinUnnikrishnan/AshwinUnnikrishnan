@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning
-    - GANs and Diffusion models
+- 🌱 I’m currently working on
+    - I am working on developing an application to connect users (Connactify).
 - 🤔 I’m looking for help with finding a job :) 
 - 📫 How to reach me: Unnikrishnan.a@northeastern.edu
-- Fun Fact: I stayed 20 days in a new country traveling and sleeping in a car.
 
 
 About:
