@@ -6,24 +6,25 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently working on
-    - I am working on developing an application to connect users (Connactify).
-- 🤔 I’m looking for help with finding a job :) 
+- 🌱 I am volunteering to build Image Classification and Object Detection models to detect plants in the given image, their size etc, so that we can provide users tokens based on that to use in real-life. Help incentivize planting trees.
 - 📫 How to reach me: Unnikrishnan.a@northeastern.edu
 
 
-About:
+## About:
 
 
-I'm an experienced Machine Learning Engineer focusing on Data Science, Natural Language Processing, and Computer Vision. I'm currently furthering my education by pursuing an MS in Artificial Intelligence at Northeastern University in Boston.
-My professional journey includes experience with leading companies like Qualcomm and Raysecur Inc. During my tenure at Qualcomm, where I was part of the IoT stability test team, I had the opportunity to contribute to several Machine Learning projects. These experiences ignited my interest in Artificial Intelligence and ultimately led me to pursue a Master's degree in the same.
-At Raysecur, a pioneer in the development of dedicated mail security scanners recognized as a Qualified Anti-Terrorism Technology (QATT) under the U.S. SAFETY Act, I was involved in the development of pioneering models for the detection of contrabands in terahertz images.
-<br>
+- I hold a Master's degree in **Artificial Intelligence** from Northeastern University, specializing in Computer Vision, with additional expertise in Natural Language Processing, Machine Learning, Deep Learning, and Reinforcement Learning gained through various projects and professional experiences.
+- My journey in the field includes significant roles at leading companies such as Qualcomm and Raysecur Inc. At Qualcomm, I was a vital member of the IoT automation team, contributing to multiple Machine Learning projects. These experiences fueled my passion for Artificial Intelligence, prompting me to pursue advanced studies in the domain.
+
+
+- During my tenure at Raysecur, I played a pivotal role in developing image classification models leveraging terahertz imaging technology for their flagship product. Additionally, I spearheaded initiatives aimed at streamlining the Machine Learning lifecycle and supporting projects integral to the company's objectives.
 <br>
 
-Throughout my career, I've honed my skills in data analysis, including data preprocessing, and have built and managed end-to-end pipelines for a variety of applications such as sentiment analysis, object detection, segmentation, face recognition, GANs, and more.
+
+- Throughout my career, I've refined my data analysis skills, specializing in data preprocessing and overseeing end-to-end pipelines for various applications, such as sentiment analysis, object detection, segmentation, face recognition, and Generative Adversarial Networks (GANs).
 <br>
 <br>
-In my free time, you'll often spot me at the local bouldering gyms, challenging myself to solve intricate rock problems. I have a strong passion for budget backpacking and am currently developing a project to enhance the travel experience for all.=
+  Outside of work, you'll often find me at local bouldering gyms, tackling challenging rock problems to push my limits. I also have a strong passion for budget backpacking and am currently working on a project to revolutionize the travel experience for adventurers on a budget.
+
 
 I'm as open to making new connections as a freshly opened bag of potato chips!
