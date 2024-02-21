@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I am volunteering to build Image Classification and Object Detection models to detect plants in the given image, their size etc, so that we can provide users tokens based on that to use in real-life. Help incentivize planting trees.
 - 📫 How to reach me: Unnikrishnan.a@northeastern.edu
 
-https://github-readme-stats.vercel.app/api?username=ASHWINUNNIKRISHNAN
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWINUNNIKRISHNAN&hide_progress=true)
 ## About:
 
 
