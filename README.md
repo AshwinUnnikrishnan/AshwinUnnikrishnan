@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 
+- Working on a fun Movie Finder using LLM's. Do check it out!! [CineMatch](https://huggingface.co/spaces/AshwinUnnikrishnan/CineMatch)
 - 🌱 I am volunteering to build Image Classification and Object Detection models to detect plants in the given image, their size etc, so that we can provide users tokens based on that to use in real-life. Help incentivize planting trees.
 - Also trying to use satellite 11 band dataset to detect logging routes to detect illegal logging and detect early deforestation and stop it.
 - 📫 How to reach me: Unnikrishnan.a@northeastern.edu
